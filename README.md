@@ -5,6 +5,8 @@
 
 [![codewars](https://www.codewars.com/users/ArturGalstyan96/badges/large)](https://www.codewars.com/users/username)   
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
