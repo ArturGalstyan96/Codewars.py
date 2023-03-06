@@ -11,6 +11,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGalstyan96)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
