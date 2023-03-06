@@ -7,6 +7,7 @@
 
 [![codewars](https://www.codewars.com/users/ArturGalstyan96/badges/large)](https://www.codewars.com/users/username)   
 
+![327252963_855844885689334_7532917616083809219_n](https://user-images.githubusercontent.com/124146015/223105785-04828a4b-5d4c-476d-9140-854ab58bde1f.png)
 
 
 
