@@ -1,6 +1,5 @@
 ![giphy](https://user-images.githubusercontent.com/124146015/223101813-b7583a7c-384e-4f80-a4b8-526f68a9c4b7.gif)
 
-
 # Hi there, I'm Artur
 
 
