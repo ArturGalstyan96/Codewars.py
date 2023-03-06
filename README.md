@@ -5,12 +5,6 @@
 
 [![codewars](https://www.codewars.com/users/ArturGalstyan96/badges/large)](https://www.codewars.com/users/username)   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGalstyan96)](https://github.com/anuraghazra/github-readme-stats)
 
 
