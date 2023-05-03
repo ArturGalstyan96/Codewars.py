@@ -3,7 +3,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/124146015/223101813-b7583a7c-384e-4f80-a4b8-526f68a9c4b7.gif)
 
-[![codewars](https://www.codewars.com/users/ArturGalstyan96/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/ArturPy88/badges/large)](https://www.codewars.com/users/ArturPy88)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturGalstyan96)](https://github.com/anuraghazra/github-readme-stats)
 
